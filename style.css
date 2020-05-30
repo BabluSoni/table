@@ -1,0 +1,33 @@
+body {
+    background-color: #0e153a;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 350px;
+}
+
+th,
+td {
+    padding: 10px;
+    font-size: 1.5rem;
+    border: 20px solid #581b98;
+}
+
+td {
+    background: orange;
+    color: white;
+    font-weight: 600;
+}
+
+.green-color {
+    background: #28c7fa;
+}
+
+.blue-color {
+    background: #17b978;
+    color: white;
+    font-weight: 600;
+}
